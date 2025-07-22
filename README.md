@@ -86,11 +86,11 @@ Hello, This is a new sample file.
 javac FileHandlingUtility.java
 java FileHandlingUtility
 ```
-📌 Notes
+## 📌 Notes
 Ensure you have write permissions in the directory to create/delete files.
 
 Uncomment deleteFile() in main() if you want to test the deletion operation.
 
-📂 Author
+## 📂 Author
 Ekta Naresh Chandak
 Second-Year B.Tech Student | Artificial Intelligence and Data Science
